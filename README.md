@@ -33,4 +33,4 @@ To get started with PhotoHunt, simply follow these steps:
 2. Open `index.html` in your web browser to run the app.
 
 ```bash
-git clone https://github.com/yourusername/photohunt.git
+git clone https://github.com/Naveensakthivel12/photohunt.git
